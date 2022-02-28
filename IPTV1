@@ -1,0 +1,8 @@
+#EXTM3U 
+#PLAYLIST:Playlist1
+#EXTINF:-1 tvg-name="Warna" tvg-logo="https://www.tvmalaysia.online/2021/06/warna.html", Channel 1
+#EXTGRP:Group1
+https://www.tvmalaysia.online/2021/06/warna.html
+#EXTINF:-1 tvg-name="Ria" tvg-logo="http://site.domain / channel2_logo.png", Channel 2
+#EXTGRP:Group1
+https://www.tvmalaysia.online/2021/06/ria.html
